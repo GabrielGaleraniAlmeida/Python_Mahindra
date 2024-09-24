@@ -1,0 +1,125 @@
+Year,Lap,Driver,Lap_Time (s),Fanboost
+2023,1,Nick De Vries,01:09.5,False
+2023,2,Nick De Vries,01:10.2,False
+2023,3,Nick De Vries,01:08.7,False
+2023,4,Nick De Vries,01:08.4,False
+2023,5,Nick De Vries,01:07.9,True
+2023,6,Nick De Vries,01:11.3,False
+2023,7,Nick De Vries,01:09.0,False
+2023,8,Nick De Vries,01:08.5,False
+2023,9,Nick De Vries,01:10.1,False
+2023,10,Nick De Vries,01:07.8,True
+2023,11,Nick De Vries,01:09.4,False
+2023,12,Nick De Vries,01:08.3,False
+2023,13,Nick De Vries,01:08.2,False
+2023,14,Nick De Vries,01:08.1,False
+2023,15,Nick De Vries,01:09.2,True
+2023,16,Nick De Vries,01:10.0,False
+2023,17,Nick De Vries,01:08.8,False
+2023,18,Nick De Vries,01:08.5,False
+2023,19,Nick De Vries,01:09.0,False
+2023,20,Nick De Vries,01:09.3,False
+2023,21,Nick De Vries,01:10.6,False
+2023,22,Nick De Vries,01:08.9,False
+2023,23,Nick De Vries,01:09.7,False
+2023,24,Nick De Vries,01:11.0,False
+2023,25,Nick De Vries,01:10.4,False
+2023,26,Nick De Vries,01:08.5,False
+2023,27,Nick De Vries,01:09.2,False
+2023,28,Nick De Vries,01:10.3,False
+2023,29,Nick De Vries,01:09.6,False
+2023,30,Nick De Vries,01:08.1,False
+2023,31,Nick De Vries,01:08.8,False
+2023,1,Edoardo Mortara,01:09.9,False
+2023,2,Edoardo Mortara,01:10.5,False
+2023,3,Edoardo Mortara,01:08.3,False
+2023,4,Edoardo Mortara,01:09.0,True
+2023,5,Edoardo Mortara,01:08.2,False
+2023,6,Edoardo Mortara,01:10.4,False
+2023,7,Edoardo Mortara,01:09.5,False
+2023,8,Edoardo Mortara,01:08.1,False
+2023,9,Edoardo Mortara,01:10.2,False
+2023,10,Edoardo Mortara,01:08.0,False
+2023,11,Edoardo Mortara,01:09.1,False
+2023,12,Edoardo Mortara,01:08.4,False
+2023,13,Edoardo Mortara,01:08.2,False
+2023,14,Edoardo Mortara,01:10.3,False
+2023,15,Edoardo Mortara,01:09.0,False
+2023,16,Edoardo Mortara,01:08.3,False
+2023,17,Edoardo Mortara,01:10.5,False
+2023,18,Edoardo Mortara,01:09.6,False
+2023,19,Edoardo Mortara,01:08.9,False
+2023,20,Edoardo Mortara,01:09.4,False
+2023,21,Edoardo Mortara,01:10.2,False
+2023,22,Edoardo Mortara,01:09.7,False
+2023,23,Edoardo Mortara,01:10.1,False
+2023,24,Edoardo Mortara,01:09.5,False
+2023,25,Edoardo Mortara,01:08.8,False
+2023,26,Edoardo Mortara,01:09.3,False
+2023,27,Edoardo Mortara,01:10.0,False
+2023,28,Edoardo Mortara,01:09.4,False
+2023,29,Edoardo Mortara,01:08.6,False
+2023,30,Edoardo Mortara,01:09.0,False
+2023,31,Edoardo Mortara,01:10.3,False
+2024,1,Nick De Vries,01:08.2,False
+2024,2,Nick De Vries,01:09.3,True
+2024,3,Nick De Vries,01:08.1,False
+2024,4,Nick De Vries,01:08.0,False
+2024,5,Nick De Vries,01:09.0,False
+2024,6,Nick De Vries,01:08.3,True
+2024,7,Nick De Vries,01:08.9,False
+2024,8,Nick De Vries,01:08.2,False
+2024,9,Nick De Vries,01:07.8,False
+2024,10,Nick De Vries,01:09.2,False
+2024,11,Nick De Vries,01:09.1,False
+2024,12,Nick De Vries,01:08.7,False
+2024,13,Nick De Vries,01:07.9,False
+2024,14,Nick De Vries,01:08.6,False
+2024,15,Nick De Vries,01:09.0,False
+2024,16,Nick De Vries,01:08.3,False
+2024,17,Nick De Vries,01:09.5,False
+2024,18,Nick De Vries,01:09.0,False
+2024,19,Nick De Vries,01:08.4,True
+2024,20,Nick De Vries,01:09.1,False
+2024,21,Nick De Vries,01:08.6,False
+2024,22,Nick De Vries,01:08.2,False
+2024,23,Nick De Vries,01:09.3,False
+2024,24,Nick De Vries,01:07.5,False
+2024,25,Nick De Vries,01:09.4,False
+2024,26,Nick De Vries,01:08.8,False
+2024,27,Nick De Vries,01:09.6,False
+2024,28,Nick De Vries,01:08.1,False
+2024,29,Nick De Vries,01:08.0,False
+2024,30,Nick De Vries,01:09.2,False
+2024,31,Nick De Vries,01:08.3,False
+2024,1,Edoardo Mortara,01:08.4,False
+2024,2,Edoardo Mortara,01:09.1,False
+2024,3,Edoardo Mortara,01:09.0,True
+2024,4,Edoardo Mortara,01:08.5,False
+2024,5,Edoardo Mortara,01:09.7,False
+2024,6,Edoardo Mortara,01:08.2,False
+2024,7,Edoardo Mortara,01:08.9,True
+2024,8,Edoardo Mortara,01:08.0,False
+2024,9,Edoardo Mortara,01:09.1,False
+2024,10,Edoardo Mortara,01:08.4,False
+2024,11,Edoardo Mortara,01:09.2,False
+2024,12,Edoardo Mortara,01:08.3,False
+2024,13,Edoardo Mortara,01:08.6,False
+2024,14,Edoardo Mortara,01:08.1,False
+2024,15,Edoardo Mortara,01:09.5,False
+2024,16,Edoardo Mortara,01:09.2,False
+2024,17,Edoardo Mortara,01:09.0,False
+2024,18,Edoardo Mortara,01:08.1,False
+2024,19,Edoardo Mortara,01:09.3,False
+2024,20,Edoardo Mortara,01:08.2,False
+2024,21,Edoardo Mortara,01:09.1,False
+2024,22,Edoardo Mortara,01:08.4,False
+2024,23,Edoardo Mortara,01:09.2,False
+2024,24,Edoardo Mortara,01:09.0,False
+2024,25,Edoardo Mortara,01:09.5,False
+2024,26,Edoardo Mortara,01:08.6,False
+2024,27,Edoardo Mortara,01:09.3,False
+2024,28,Edoardo Mortara,01:09.0,False
+2024,29,Edoardo Mortara,01:08.1,False
+2024,30,Edoardo Mortara,01:08.8,False
+2024,31,Edoardo Mortara,01:09.4,False
