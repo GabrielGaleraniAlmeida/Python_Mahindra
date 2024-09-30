@@ -1,3 +1,11 @@
+Integrantes do Grupo
+
+RM 557270 - Henrique
+RM 556211 - Matheus
+RM 551669 - Gabriel F
+RM 557421 - Gabriel G
+RM 558826 - Gustavo G
+
 Análise de Dados de Pilotos de Fórmula E
 Descrição do Projeto
 Este projeto tem como objetivo analisar e comparar o desempenho dos pilotos Nick De Vries e Edoardo Mortara nas temporadas de 2023 e 2024 da Fórmula E. Através de um fluxo de trabalho estruturado, o projeto realiza a leitura de dados, a verificação de consistência de voltas, a simulação de consumo de energia e a comparação de cenários de desempenho.
